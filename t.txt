@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 createing a mew branch is quick & simple
+=======
+create a new branch is quick and simple
+>>>>>>> feature1
